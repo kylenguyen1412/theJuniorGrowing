@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://kylenguyen1412.github.io/theJuniorGrowing/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 02 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kylenguyen1412.github.io/theJuniorGrowing/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>https://kylenguyen1412.github.io/theJuniorGrowing/categories/development/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://kylenguyen1412.github.io/theJuniorGrowing/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/categories/golang/</link>
+      <link>https://kylenguyen1412.github.io/theJuniorGrowing/categories/golang/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>https://kylenguyen1412.github.io/theJuniorGrowing/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food</title>
-      <link>/categories/food/</link>
+      <link>https://kylenguyen1412.github.io/theJuniorGrowing/categories/food/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/food/</guid>
+      <guid>https://kylenguyen1412.github.io/theJuniorGrowing/categories/food/</guid>
       <description></description>
     </item>
     
